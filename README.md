@@ -15,7 +15,11 @@ and so on
 - third
 
 - ### link a page
-- [Markdownguide](https://www.markdownguide.org/cheat-sheet/)
+[Markdownguide](https://www.markdownguide.org/cheat-sheet/)
 
-- ![image](./kaffeepa-DW-Wissenschaft-Greifswald-jpg.jpeg)
+![image](./kaffeepa-DW-Wissenschaft-Greifswald-jpg.jpeg)
+
+### Code
+
+`this is not code`
 
