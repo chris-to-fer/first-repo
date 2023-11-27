@@ -23,3 +23,10 @@ and so on
 
 `this is not code`
 
+### Block code
+```js
+let cohort = "Coriander"
+let students = 17
+
+```
+
