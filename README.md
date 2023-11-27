@@ -1,4 +1,4 @@
-# first-repo
+# Learning Github and Markdown
 first repo coriander
 ## test subtitle
 and so on
