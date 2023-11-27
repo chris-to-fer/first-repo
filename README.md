@@ -16,3 +16,5 @@ and so on
 
 - ### link a page
 - [Markdownguide](https://www.markdownguide.org/cheat-sheet/)
+
+- [image](/kaffeepa-DW-Wissenschaft-Greifswald-jpg.jpeg)
