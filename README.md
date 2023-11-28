@@ -1,21 +1,27 @@
 # Learning Github and Markdown
+
 first repo coriander
+
 ## test subtitle
+
 and so on
+
 ### next title less important
 
 ### Order List
+
 1. First
 2. Second
 3. Third
 
 ### Unordered list
+
 - first
 - second
 - third
 
 - ### link a page
-[Markdownguide](https://www.markdownguide.org/cheat-sheet/)
+  [Markdownguide](https://www.markdownguide.org/cheat-sheet/)
 
 ![image](./kaffeepa-DW-Wissenschaft-Greifswald-jpg.jpeg)
 
@@ -24,9 +30,10 @@ and so on
 `this is not code`
 
 ### Block code
-```js
-let cohort = "Coriander"
-let students = 17
 
+```js
+let cohort = "Coriander";
+let students = 17;
 ```
 
+change
